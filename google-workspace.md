@@ -11,5 +11,5 @@ Content: Long TXT generated in Gmail section of Google workspace (You need to co
 
 #### DMARK (Domain-based Message Authentication, Reporting, and Conformance)
 Name: _dmarc
-Content: v=DMARC1; p=none; rua=mailto:akter@clickforbaby.com
+Content: v=DMARC1; p=none; rua=mailto:yourEmailAddress
 
